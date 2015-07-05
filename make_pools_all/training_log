@@ -1,0 +1,85 @@
+0612 18:57:35.430166 22517 solver.cpp:266] Iteration 0, Testing net (#0)
+I0612 18:58:53.291846 22517 solver.cpp:315]     Test net output #0: accuracy = 0.7247
+I0612 18:58:53.291931 22517 solver.cpp:315]     Test net output #1: loss = 0.691775 (* 1 = 0.691775 loss)
+I0612 18:58:55.239416 22517 solver.cpp:189] Iteration 0, loss = 0.691271
+I0612 18:58:55.239465 22517 solver.cpp:204]     Train net output #0: loss = 0.691271 (* 1 = 0.691271 loss)
+I0612 18:58:55.239476 22517 solver.cpp:464] Iteration 0, lr = 0.0001
+I0612 19:02:07.674523 22517 solver.cpp:189] Iteration 100, loss = 0.0566495
+I0612 19:02:07.674650 22517 solver.cpp:204]     Train net output #0: loss = 0.0566495 (* 1 = 0.0566495 loss)
+I0612 19:02:07.674670 22517 solver.cpp:464] Iteration 100, lr = 0.0001
+I0612 19:05:20.244674 22517 solver.cpp:189] Iteration 200, loss = 0.0169854
+I0612 19:05:20.244789 22517 solver.cpp:204]     Train net output #0: loss = 0.0169854 (* 1 = 0.0169854 loss)
+I0612 19:05:20.244799 22517 solver.cpp:464] Iteration 200, lr = 0.0001
+I0612 19:08:38.010921 22517 solver.cpp:189] Iteration 300, loss = 0.0298042
+I0612 19:08:38.011035 22517 solver.cpp:204]     Train net output #0: loss = 0.0298042 (* 1 = 0.0298042 loss)
+I0612 19:08:38.011044 22517 solver.cpp:464] Iteration 300, lr = 0.0001
+I0612 19:11:51.197537 22517 solver.cpp:189] Iteration 400, loss = 0.072744
+I0612 19:11:51.197648 22517 solver.cpp:204]     Train net output #0: loss = 0.072744 (* 1 = 0.072744 loss)
+I0612 19:11:51.197656 22517 solver.cpp:464] Iteration 400, lr = 0.0001
+I0612 19:15:03.881284 22517 solver.cpp:334] Snapshotting to /home/stuart/caffe-master/make_pools_all/pools_quick_iter_500.caffemodel
+I0612 19:15:03.883640 22517 solver.cpp:342] Snapshotting solver state to /home/stuart/caffe-master/make_pools_all/pools_quick_iter_500.solverstate
+I0612 19:15:03.885254 22517 solver.cpp:266] Iteration 500, Testing net (#0)
+I0612 19:16:21.060495 22517 solver.cpp:315]     Test net output #0: accuracy = 0.9845
+I0612 19:16:21.060710 22517 solver.cpp:315]     Test net output #1: loss = 0.0447429 (* 1 = 0.0447429 loss)
+I0612 19:16:22.982167 22517 solver.cpp:189] Iteration 500, loss = 0.0502148
+I0612 19:16:22.982218 22517 solver.cpp:204]     Train net output #0: loss = 0.0502148 (* 1 = 0.0502148 loss)
+I0612 19:16:22.982226 22517 solver.cpp:464] Iteration 500, lr = 0.0001
+I0612 19:19:36.819885 22517 solver.cpp:189] Iteration 600, loss = 0.043438
+I0612 19:19:36.820065 22517 solver.cpp:204]     Train net output #0: loss = 0.0434381 (* 1 = 0.0434381 loss)
+I0612 19:19:36.820075 22517 solver.cpp:464] Iteration 600, lr = 0.0001
+I0612 19:22:49.483710 22517 solver.cpp:189] Iteration 700, loss = 0.0166127
+I0612 19:22:49.483878 22517 solver.cpp:204]     Train net output #0: loss = 0.0166128 (* 1 = 0.0166128 loss)
+I0612 19:22:49.483888 22517 solver.cpp:464] Iteration 700, lr = 0.0001
+I0612 19:26:04.961783 22517 solver.cpp:189] Iteration 800, loss = 0.0167735
+I0612 19:26:04.961947 22517 solver.cpp:204]     Train net output #0: loss = 0.0167735 (* 1 = 0.0167735 loss)
+I0612 19:26:04.961957 22517 solver.cpp:464] Iteration 800, lr = 0.0001
+I0612 19:29:19.193081 22517 solver.cpp:189] Iteration 900, loss = 0.0346688
+I0612 19:29:19.193241 22517 solver.cpp:204]     Train net output #0: loss = 0.0346689 (* 1 = 0.0346689 loss)
+I0612 19:29:19.193251 22517 solver.cpp:464] Iteration 900, lr = 0.0001
+I0612 19:32:33.742112 22517 solver.cpp:334] Snapshotting to /home/stuart/caffe-master/make_pools_all/pools_quick_iter_1000.caffemodel
+I0612 19:32:33.744405 22517 solver.cpp:342] Snapshotting solver state to /home/stuart/caffe-master/make_pools_all/pools_quick_iter_1000.solverstate
+I0612 19:32:33.746026 22517 solver.cpp:266] Iteration 1000, Testing net (#0)
+I0612 19:33:51.150733 22517 solver.cpp:315]     Test net output #0: accuracy = 0.989401
+I0612 19:33:51.150912 22517 solver.cpp:315]     Test net output #1: loss = 0.0326367 (* 1 = 0.0326367 loss)
+I0612 19:33:53.069772 22517 solver.cpp:189] Iteration 1000, loss = 0.0177067
+I0612 19:33:53.069824 22517 solver.cpp:204]     Train net output #0: loss = 0.0177067 (* 1 = 0.0177067 loss)
+I0612 19:33:53.069833 22517 solver.cpp:464] Iteration 1000, lr = 0.0001
+I0612 19:37:06.571014 22517 solver.cpp:189] Iteration 1100, loss = 0.0399941
+I0612 19:37:06.571130 22517 solver.cpp:204]     Train net output #0: loss = 0.0399941 (* 1 = 0.0399941 loss)
+I0612 19:37:06.571141 22517 solver.cpp:464] Iteration 1100, lr = 0.0001
+I0612 19:40:19.861551 22517 solver.cpp:189] Iteration 1200, loss = 0.0115873
+I0612 19:40:19.861650 22517 solver.cpp:204]     Train net output #0: loss = 0.0115873 (* 1 = 0.0115873 loss)
+I0612 19:40:19.861668 22517 solver.cpp:464] Iteration 1200, lr = 0.0001
+I0612 19:43:36.064510 22517 solver.cpp:189] Iteration 1300, loss = 0.0574208
+I0612 19:43:36.064610 22517 solver.cpp:204]     Train net output #0: loss = 0.0574207 (* 1 = 0.0574207 loss)
+I0612 19:43:36.064627 22517 solver.cpp:464] Iteration 1300, lr = 0.0001
+I0612 19:46:49.805894 22517 solver.cpp:189] Iteration 1400, loss = 0.120382
+I0612 19:46:49.806009 22517 solver.cpp:204]     Train net output #0: loss = 0.120382 (* 1 = 0.120382 loss)
+I0612 19:46:49.806017 22517 solver.cpp:464] Iteration 1400, lr = 0.0001
+I0612 19:50:04.097381 22517 solver.cpp:334] Snapshotting to /home/stuart/caffe-master/make_pools_all/pools_quick_iter_1500.caffemodel
+I0612 19:50:04.099705 22517 solver.cpp:342] Snapshotting solver state to /home/stuart/caffe-master/make_pools_all/pools_quick_iter_1500.solverstate
+I0612 19:50:04.101372 22517 solver.cpp:266] Iteration 1500, Testing net (#0)
+I0612 19:51:20.788916 22517 solver.cpp:315]     Test net output #0: accuracy = 0.9909
+I0612 19:51:20.789032 22517 solver.cpp:315]     Test net output #1: loss = 0.0267905 (* 1 = 0.0267905 loss)
+I0612 19:51:22.727540 22517 solver.cpp:189] Iteration 1500, loss = 0.0316277
+I0612 19:51:22.727591 22517 solver.cpp:204]     Train net output #0: loss = 0.0316277 (* 1 = 0.0316277 loss)
+I0612 19:51:22.727599 22517 solver.cpp:464] Iteration 1500, lr = 0.0001
+I0612 19:54:40.115726 22517 solver.cpp:189] Iteration 1600, loss = 0.0382345
+I0612 19:54:40.115849 22517 solver.cpp:204]     Train net output #0: loss = 0.0382346 (* 1 = 0.0382346 loss)
+I0612 19:54:40.115867 22517 solver.cpp:464] Iteration 1600, lr = 0.0001
+I0612 19:57:54.377990 22517 solver.cpp:189] Iteration 1700, loss = 0.00476816
+I0612 19:57:54.378075 22517 solver.cpp:204]     Train net output #0: loss = 0.00476819 (* 1 = 0.00476819 loss)
+I0612 19:57:54.378085 22517 solver.cpp:464] Iteration 1700, lr = 0.0001
+I0612 20:01:10.724558 22517 solver.cpp:189] Iteration 1800, loss = 0.066169
+I0612 20:01:10.724674 22517 solver.cpp:204]     Train net output #0: loss = 0.0661691 (* 1 = 0.0661691 loss)
+I0612 20:01:10.724684 22517 solver.cpp:464] Iteration 1800, lr = 0.0001
+I0612 20:04:24.840400 22517 solver.cpp:189] Iteration 1900, loss = 0.00472872
+I0612 20:04:24.840495 22517 solver.cpp:204]     Train net output #0: loss = 0.00472875 (* 1 = 0.00472875 loss)
+I0612 20:04:24.840514 22517 solver.cpp:464] Iteration 1900, lr = 0.0001
+I0612 20:07:39.908799 22517 solver.cpp:334] Snapshotting to /home/stuart/caffe-master/make_pools_all/pools_quick_iter_2000.caffemodel
+I0612 20:07:39.911176 22517 solver.cpp:342] Snapshotting solver state to /home/stuart/caffe-master/make_pools_all/pools_quick_iter_2000.solverstate
+I0612 20:07:40.677302 22517 solver.cpp:248] Iteration 2000, loss = 0.0204141
+I0612 20:07:40.677350 22517 solver.cpp:266] Iteration 2000, Testing net (#0)
+I0612 20:08:56.878530 22517 solver.cpp:315]     Test net output #0: accuracy = 0.9897
+I0612 20:08:56.878624 22517 solver.cpp:315]     Test net output #1: loss = 0.025121 (* 1 = 0.025121 loss)
+
