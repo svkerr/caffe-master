@@ -1,0 +1,8 @@
+collect images
+process images using openimage.py (creates neg and pos directories)
+merge pos and neg into one directory
+create file of labeled filenames by using labels.py and redirecting output
+create train and test directories (perhaps using create_sets.py)
+create level_db versions of above directories (e.g., create_dbs.sh)
+create mean files of the above to create mean_test/train.binaryproto files
+
